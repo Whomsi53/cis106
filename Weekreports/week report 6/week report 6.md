@@ -6,9 +6,6 @@ Semester: Fall 23
 
 # Week Report 6
 
-
-Certainly! Here are the shortened examples for a Markdown file:
-
 ## * Wildcard:
 ### Example: file*.txt (Matches: file1.txt, file2.txt, file123.txt, etc.)
 ### Example: *.jpg (Matches: image.jpg, photo.jpg, background.jpg, etc.)
