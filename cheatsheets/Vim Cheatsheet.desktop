@@ -1,0 +1,9 @@
+#!/usr/bin/evn xdg-open
+
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/snap/bin/firefox https://vim.rtorr.com/
+Name=cis106
+Icon=$HOME/.cis106.png
+Name[en_US]=Vim Cheatsheet
