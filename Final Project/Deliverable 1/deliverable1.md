@@ -1,7 +1,7 @@
 ---
 Name: Wael Homsi
 Course: CIS-106
-Semester: Spring 23
+Semester: Fall 23
 Instructor: R. Alberto
 ---
 
